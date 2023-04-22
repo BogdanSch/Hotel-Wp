@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost/Projects/Wordpress/hotel-bs
+Data file = C:\Programs\Xampp\htdocs\Projects\Wordpress\hotel-bs/wp-content/uploads/2023/04/demo-content-import-file_2023-04-19__16-17-48.xml
+Widget file = C:\Programs\Xampp\htdocs\Projects\Wordpress\hotel-bs/wp-content/uploads/2023/04/demo-widgets-import-file_2023-04-19__16-17-48.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Text - Follow us - Imported
+
+Front Page Sidebar : 
+
+Search Availability - No Title - Imported
+
+
+
+---ocdi/after_import---
+
